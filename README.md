@@ -14,4 +14,4 @@ Special Characters are defined based on the following reference:  [list of Passw
 ![The following link shows an example of what the site should look like](./assets/PW_Generator_Example_view.png)
 
 
-[The Production URL is as Follows](https://www.owasp.org/index.php/Password_special_characters).
+[The Production URL is as Follows](https://romer0-c.github.io/Password_generator/).
